@@ -1,0 +1,13 @@
+body{
+    background-image: url('../img/fondo.png');
+}
+    
+.jumbotron{
+    background-color: #13D729;
+    color: yellow;
+}
+
+.panel-heading{
+    background-color:#13D729 !important;
+    color: yellow !important;
+}
